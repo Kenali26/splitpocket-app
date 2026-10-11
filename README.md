@@ -2,7 +2,7 @@
 
 **Split bills with friends, settle up fairly, and keep a monthly budget.**
 
-👉 **Open the app: [splitpocket.web.app](https://splitpocket.web.app/)** (free, works in any browser on phone or computer)
+👉 **Open the app: [splitpocket.pkg4.win](https://splitpocket.pkg4.win/)** (free, works in any browser on phone or computer)
 
 ## What you can do
 
